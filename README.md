@@ -2,35 +2,57 @@
 
 A modern desktop calculator built with Python and PySide6.
 
-## Features
+## ✨ Features
 
 - Standard Calculator
 - Scientific Calculator
-- Clean Modern UI
-- Dark Theme
-- Keyboard Support
-- Fast Performance
+- Programmer Mode
+- Matrix Calculator
+- Statistics Calculator
+- Unit Converter
+- Workspace Notes
+- Calculator History
+- Modern Dark UI
+- Smooth Animations
 
-## Screenshots
+## 🖼️ Screenshots
 
-Coming Soon
+![](assets/screenshots/img1.png)
 
-## Installation
+![](assets/screenshots/img2.png)
+
+![](assets/screenshots/img3.png)
+
+![](assets/screenshots/img4.png)
+
+![](assets/screenshots/img5.png)
+
+![](assets/screenshots/img6.png)
+
+![](assets/screenshots/img7.png)
+
+![](assets/screenshots/img8.png)
+
+---
+
+## 🛠️ Built With
+
+- Python 3.13
+- PySide6
+- Qt Style Sheets (QSS)
+
+## 🚀 Installation
 
 ```bash
 git clone https://github.com/GIRIDHAR-01/NovaCalc.git
+
 cd NovaCalc
+
 pip install -r requirements.txt
-python app.py
+
+python main.py
 ```
 
-## Technologies
+## 📄 License
 
-- Python
-- PySide6
-- Qt
-- QSS (Qt Style Sheets)
-
-## License
-
-MIT License
+This project is licensed under the MIT License.
